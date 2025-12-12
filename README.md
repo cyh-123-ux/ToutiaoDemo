@@ -62,12 +62,11 @@
 ### 编译运行
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/toutiao-demo.git
-
+# git@github.com:cyh-123-ux/ToutiaoDemo.git
 # 打开项目
 # 1. 启动 Android Studio
 # 2. 选择 "Open an existing project"
-# 3. 选中克隆后的 toutiao-demo 目录
+# 3. 选中克隆后的目录
 
 # 运行项目
 # 1. 连接 Android 设备或启动模拟器

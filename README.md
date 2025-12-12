@@ -5,6 +5,8 @@
 [![Kotlin Version](https://img.shields.io/badge/Kotlin-1.9+-blue.svg)](https://kotlinlang.org/)
 
 一个基于现代 Android 技术栈开发的仿今日头条新闻客户端 Demo，旨在展示高质量的移动应用开发实践，涵盖新闻列表展示、分类浏览、详情查看、搜索、用户认证等核心功能。
+## 🎬 演示视频
+- 功能演示：[demo_video.mp4](https://github.com/your-username/toutiao-demo/raw/main/demo/demo_video.mp4)）
 
 ## 🌟 核心特性
 - 遵循 MVVM 架构模式，分层清晰、低耦合、高可维护性

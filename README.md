@@ -7,6 +7,7 @@
 一个基于现代 Android 技术栈开发的仿今日头条新闻客户端 Demo，旨在展示高质量的移动应用开发实践，涵盖新闻列表展示、分类浏览、详情查看、搜索、用户认证等核心功能。
 ## 🎬 演示视频
 - 功能演示：[ToutiaoDemo-演示](https://github.com/cyh-123-ux/ToutiaoDemo/app/ToutiaoDemo-演示.mp4)
+[ToutiaoDemo-演示] (https://github.com/cyh-123-ux/ToutiaoDemo/blob/f89ba80bb5d137d487a6e398eedccad9c18155c2/app/src/main/res/ToutiaoDemo-%E6%BC%94%E7%A4%BA.mp4)
 
 ## 🌟 核心特性
 - 遵循 MVVM 架构模式，分层清晰、低耦合、高可维护性
